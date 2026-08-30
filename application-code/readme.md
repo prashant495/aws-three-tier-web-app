@@ -1,0 +1,1 @@
+This is a three tier application having web-tier as frontend, app-tier as backend and mysql-db as database. I have fork this repo from the github public repo and created Docker files first for frontend and backend and then created docker-compose.yml.
